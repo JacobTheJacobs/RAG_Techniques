@@ -23,11 +23,11 @@ Retrieval-Augmented Generation (RAG) is revolutionizing the way we combine infor
 
 Our goal is to provide a valuable resource for researchers and practitioners looking to push the boundaries of what's possible with RAG. By fostering a collaborative environment, we aim to accelerate innovation in this exciting field.
 
-## Related Project
+## Related Projects
 
-If you're interested in AI Agents implementations and tutorials, check out our sister project:
+🖋️ Check out my  **[Prompt Engineering Techniques guide](https://github.com/NirDiamant/Prompt_Engineering)** for a comprehensive collection of prompting strategies, from basic concepts to advanced techniques, enhancing your ability to interact effectively with AI language models.
 
-🤖 **[GenAI Agents Repository](https://github.com/NirDiamant/GenAI_Agents)**
+🤖 Explore my **[GenAI Agents Repository](https://github.com/NirDiamant/GenAI_Agents)** to discover a variety of AI agent implementations and tutorials, showcasing how different AI technologies can be combined to create powerful, interactive systems.
 
 ## A Community-Driven Knowledge Hub
 
@@ -421,7 +421,7 @@ We welcome contributions from the community! If you have a new technique or impr
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under a custom non-commercial license - see the [LICENSE](LICENSE) file for details.
 
 ---
 
